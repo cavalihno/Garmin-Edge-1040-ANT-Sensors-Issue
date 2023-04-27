@@ -36,8 +36,9 @@ Conclusions, according to the action number:
     4. the Edge 520 calls the calibration of the sensor ANT+ ID "38980" and returns success with the value "0", Edge 1040 calls the calibration of the sensor ANT+ ID "38980" but it takes a very long time and ends with an error each time 
 
 
-    Below you will find a video showing the problem with ANT+ ID "38980":
-    <a href="https://www.dropbox.com/s/0glv9oq6ury0g5t/VID20230116152940.mp4?dl=0"><img src=images/scrsht_1.png></a>
+Below you will find a video showing the problem with ANT+ ID "38980":
+
+<a href="https://www.dropbox.com/s/0glv9oq6ury0g5t/VID20230116152940.mp4?dl=0"><img src=images/scrsht_1.png></a>
     
 
     5. Edge 520 finds ANT+ power meter ID "34835", Edge 1040 finds ANT+ power meter ID "34835"
@@ -46,6 +47,6 @@ Conclusions, according to the action number:
     8. the Edge 520 calls the calibration of the ANT+ sensor ID "34835" and it returns success with the value "0", the Edge 1040 calls the calibration of the ANT+ sensor ID "34835" and it returns success with the value "0"
 
     
-    Below you will find a video showing that the problem does not occur (ANT+ ID "34835"):
-    <a href="https://www.dropbox.com/s/ney4zsucbjsupgp/VID20230116152536.mp4?dl=0"><img src=images/scrsht_2.png></a>
+Below you will find a video showing that the problem does not occur (ANT+ ID "34835"):
+<a href="https://www.dropbox.com/s/ney4zsucbjsupgp/VID20230116152536.mp4?dl=0"><img src=images/scrsht_2.png></a>
 
